@@ -12,8 +12,6 @@ lenguajes.
 * Delphi
 
 ## Archivos
-**URL**: https://bitbucket.org/timboxmx/timbox-dll/src/master/TimboxLibrary/bin/Debug/
-
 **Archivos**:
 
 * TimboxLibrary.dll
