@@ -1,5 +1,5 @@
 # Timbox DLL 
-TimboxLibrary.dll ha sido hecha en C#, con el motivo de facilitar la integración en diferentes
+TimboxLibrary.dll se ha desarrollado en C#, con el motivo de facilitar la integración en diferentes
 lenguajes.
 
 ## Características
