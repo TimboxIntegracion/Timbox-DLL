@@ -71,7 +71,7 @@ las extensión **.pas**.
 **Nota**: Una vez generado un archivo con extensión **.pass**, este archivo deberá ser agregado a nuestro proyecto.
 
 ## Integración
-A continuación, se muestra los enlaces de integración para C#, Visual Basic, Visual FoxPro 9.0 y Delphi.
+A continuación, se muestra los enlaces de los ejemplos de integración  de la DLL para C#, Visual Basic, Visual FoxPro 9.0 y Delphi.
  
 * [C#](https://github.com/TimboxIntegracion/TimboxDLLCSharp)
 * [Visual Basic](https://github.com/TimboxIntegracion/TimboxDLLVB)
