@@ -57,16 +57,16 @@ C:\Windows\system32> regasm /tlb C:\Users\Current User\Your Project\TimboxLibrar
 ### RAD Studio
 En el caso de RAD Studio tendrá que agregarse como un nuevo componente de la siguiente manera:
 
-1-. Seleccionar en el menu la opcion **Component** > **Import Component**.
+1-. Seleccionar en el menu la opción **Component** > **Import Component**.
 
 2-. Seleccionar **Import a TypeLibrary**.
 
-3-. Seleccionar el boton **Add** y agregar el archivo **Timboxlibrary.tlb**
+3-. Seleccionar el botón **Add** y agregar el archivo **Timboxlibrary.tlb**
 
 4-. En Palette Page: selecciona la opción  **ActiveX** y en Unit Dir Name seleccionar la ruta en la cual será guardado el archivo con 
 las extensión **.pas**.
 
-5-. Por ultimo seleccionamos la opción **Create Unit**  y damos clic en el boton **finish**.
+5-. Por último seleccionamos la opción **Create Unit**  y damos clic en el botón **finish**.
 
 **Nota**: Una vez generado un archivo con extensión **.pass**, este archivo deberá ser agregado a nuestro proyecto.
 
